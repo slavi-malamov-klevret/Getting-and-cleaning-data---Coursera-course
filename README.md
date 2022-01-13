@@ -18,4 +18,4 @@ Steps taken:
 6.  We group by the dataframe and find for every activity(totally 6),
     for evey signal and every measure the average measurement.
 
-7.  Finally we save our date frame by the name `tidy_data.csv`
+7.  Finally we save our date frame by the name `tidy_data.txt`
